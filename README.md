@@ -1,4 +1,4 @@
-# ValueBlue Frontend Assignment
+# geoFuluxus Assignment
 
 Next.Js | Antd | Typescript | Git
 
