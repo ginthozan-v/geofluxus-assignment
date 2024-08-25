@@ -37,8 +37,6 @@ const ReportDetail = ({ reportId }: Props) => {
   const goBack = () => {
     if (window.history.length > 1) {
       router.back();
-    } else {
-      router.push('/fallback-url');
     }
   };
 
