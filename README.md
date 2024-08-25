@@ -1,4 +1,4 @@
-# geoFuluxus Assignment
+# geoFluxus Assignment
 
 Next.Js | Antd | Typescript | Git
 
